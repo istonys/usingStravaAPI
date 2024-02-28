@@ -1,5 +1,5 @@
 <h3>Using Strava API</h3>
-<p>A simple project to get to know <i>React, Postman.</i></p>
+<p>A simple project to get to know <i>React and Postman.</i></p>
 <p>Familiarize with <i>OAuth 2.0 and reading documentation.</i></p>
 <hr>
 <h3>What the project does:</h3>
