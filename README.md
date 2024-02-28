@@ -10,8 +10,8 @@
 </ul>
 <hr>
 <h3>How it looks:</h3>
-<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/5c8fb479-f2b2-4cac-96ea-f9f93dbbe489" height="500">
-<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/89cb495c-930c-4d82-9cda-fef31af34a71" height="500">
-<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/95794171-4b68-429e-992a-6b660ad944dc" height="500">
+<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/5c8fb479-f2b2-4cac-96ea-f9f93dbbe489">
+<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/89cb495c-930c-4d82-9cda-fef31af34a71">
+<img src="https://github.com/istonys/usingStravaAPI/assets/116721418/95794171-4b68-429e-992a-6b660ad944dc">
 
 
